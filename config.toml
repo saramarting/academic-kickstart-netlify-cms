@@ -24,7 +24,7 @@ smartypants = true
 
 [params]
 address = "Building 1 Room 1, Stanford University, California, 90210, USA"
-avatar = "/img/img_20180511_103324_780.jpg"
+avatar = "/img/cultura.jpg"
 color_theme = "default"
 comment_count = true
 custom_css = []
