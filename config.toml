@@ -1,6 +1,6 @@
 baseurl = "/"
-title = "Academic Theme Netlify CMS"
-copyright = "Elloza 😊 &copy; 2018"
+title = "Sara Martín García"
+copyright = "saramarting 😊 &copy; 2018"
 theme = "academic"
 enableEmoji = true
 footnotereturnlinkcontents = "hey"
@@ -24,13 +24,13 @@ smartypants = true
 
 [params]
 address = "Building 1 Room 1, Stanford University, California, 90210, USA"
-avatar = "/img/bubbles-wide.jpg"
+avatar = "/img/img_20180511_103324_780.jpg"
 color_theme = "default"
 comment_count = true
 custom_css = []
 custom_js = []
 date_format = "Jan 2, 2006"
-email = "test@example.org"
+email = "saramartindoc@gmail.com"
 font = "playfair"
 gravatar = false
 highlight = true
@@ -42,7 +42,7 @@ longitude = "-122.1697"
 map = "2"
 map_api_key = ""
 math = false
-name = "Álvaro Lozano"
+name = "Sara Martín "
 office_hours = "Monday 10:00 to 13:00 or email for appointment"
 phone = "888 888 88 88"
 privacy_pack = false
